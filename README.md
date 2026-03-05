@@ -179,7 +179,8 @@ Through feature engineering, we have created stronger predictors for future mach
 titanic-eda-feature-engineering/
 │
 ├── data/
-│   └── train.csv # Original Titanic dataset
+│   ├── Titanic.csv  # original titanic dataset
+│   └── modified.csv
 │
 ├── titanic_eda_feature_engineering.ipynb  # Complete EDA & Feature Engineering
 ├── images/
